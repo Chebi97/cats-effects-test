@@ -1,2 +1,2 @@
 # cats-effects-test
-Cats effects tutoral and testing
+Cats effects tutorial and testing
